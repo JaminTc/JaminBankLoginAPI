@@ -1,0 +1,5 @@
+C:\Users\JaminTc\Desktop\GitHub\JaminBankApp\JaminBankLoginAPI\MyFirstApp.API.DomainModel\bin\Debug\JaminBankLogin.API.DomainModel.dll
+C:\Users\JaminTc\Desktop\GitHub\JaminBankApp\JaminBankLoginAPI\MyFirstApp.API.DomainModel\bin\Debug\JaminBankLogin.API.DomainModel.pdb
+C:\Users\JaminTc\Desktop\GitHub\JaminBankApp\JaminBankLoginAPI\MyFirstApp.API.DomainModel\obj\Debug\JaminBankLogin.API.DomainModel.csprojResolveAssemblyReference.cache
+C:\Users\JaminTc\Desktop\GitHub\JaminBankApp\JaminBankLoginAPI\MyFirstApp.API.DomainModel\obj\Debug\JaminBankLogin.API.DomainModel.dll
+C:\Users\JaminTc\Desktop\GitHub\JaminBankApp\JaminBankLoginAPI\MyFirstApp.API.DomainModel\obj\Debug\JaminBankLogin.API.DomainModel.pdb
